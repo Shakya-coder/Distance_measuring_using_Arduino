@@ -1,5 +1,5 @@
 # Distance_measuring_using_Arduino
-A device to measure distance using ultrasoni c sensor and arduino
+A device to measure distance using ultrasonic sensor and arduino
 
 components required to make circuit:-
 1. Arduino
